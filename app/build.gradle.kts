@@ -13,6 +13,9 @@ android {
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
+
+        buildConfigField("String", "WEBHOOK_URL", "\"\"")
+        buildConfigField("String", "PASSWORD_HASH", "\"12c897856bd89ada0c32090f5b94ed01f2c902aaa32d53610a07a0f60bac78e7\"")
     }
 
     compileOptions {
