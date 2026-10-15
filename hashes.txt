@@ -1,0 +1,7 @@
+# CP CHECKER hash list
+# One per line:  <sha256>  <name of the cheat>
+# Lines starting with # are ignored. Example:
+# 3a7bd3e2360a3d29eea436fcfb7e44c735d117c42d1c1835420b6b9942dd4f1b  Example Executor
+# If a file's SHA-256 matches a line here, it is flagged EVEN IF it was renamed.
+
+fbb28ccf9c20bf980e23252ffd721394392996cc968a7fdd691f280ba8ec1bb8  Delta Executor v2.741
